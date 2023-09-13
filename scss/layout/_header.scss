@@ -1,0 +1,8 @@
+@use "../abstracts";
+.header {
+  padding: 22px;
+  background: abstracts.$bg-color;
+  &-container {
+    padding: 10px 0;
+  }
+}
